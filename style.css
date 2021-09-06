@@ -387,12 +387,12 @@ aside {
   grid-column: 1 / -1;
 }
 
-article {
+/* article {
 }
 
 aside {
 }
-
+*/
 footer {
   /* background-color: yellowgreen; */
   grid-column: 1 /-1;
